@@ -1,0 +1,2121 @@
+window.ESERCIZI = {
+    "versione": 1,
+    "generato": "2026-08-09T11:24:05+00:00",
+    "unita": [
+        {
+            "id": "unit-01-present-simple-vs-continuous",
+            "numero": 1,
+            "titolo": "Present simple vs present continuous",
+            "focus": "present simple vs present continuous (presente abituale vs azione in corso)",
+            "tempo": 50,
+            "sezioni": [
+                {
+                    "numero": 1,
+                    "titolo": "Warm-up lessicale",
+                    "parole": [
+                        "timetable",
+                        "subject",
+                        "break",
+                        "canteen",
+                        "homework",
+                        "library",
+                        "workshop",
+                        "get up"
+                    ],
+                    "nota": "<strong>False friend:</strong> <em>library</em> è la biblioteca, non la libreria. Il negozio dove compri i libri è <em>bookshop</em>.",
+                    "blocchi": [
+                        {
+                            "istruzione": "Area: routine quotidiana e scuola. Completa ogni frase con la parola giusta scelta dal riquadro. Ogni parola si usa una sola volta.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "gap",
+                                    "testo": "I ______ at 6.45 every morning, but at the weekend I sleep until ten.",
+                                    "accettate": [
+                                        "get up"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "gap",
+                                    "testo": "Our ______ says we have maths on Monday, Wednesday and Friday.",
+                                    "accettate": [
+                                        "timetable"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "gap",
+                                    "testo": "My favourite ______ is technology; I don't like history very much.",
+                                    "accettate": [
+                                        "subject"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "gap",
+                                    "testo": "At 10.50 we have a twenty-minute ______ and we eat a snack in the yard.",
+                                    "accettate": [
+                                        "break"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 5,
+                                    "tipo": "gap",
+                                    "testo": "I never eat at the school ______ ; I prefer to have lunch at home.",
+                                    "accettate": [
+                                        "canteen"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "gap",
+                                    "testo": "On Thursdays we work in the ______ , where we build small electric circuits.",
+                                    "accettate": [
+                                        "workshop"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "gap",
+                                    "testo": "I usually do my ______ in the afternoon, before dinner.",
+                                    "accettate": [
+                                        "homework"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "gap",
+                                    "testo": "The school ______ is quiet: students go there to read and borrow books.",
+                                    "accettate": [
+                                        "library"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "titolo": "Grammar focus — la regola in breve",
+                    "html": "<p>Il <strong>present simple</strong> (presente semplice) si usa per abitudini, routine e fatti sempre veri. Il <strong>present continuous</strong> (presente progressivo) si usa per azioni in corso adesso o in un periodo temporaneo intorno a \"adesso\".</p>\n<table>\n<tr><th></th><th>Affermativa</th><th>Negativa</th><th>Interrogativa</th></tr>\n<tr><td><strong>Present simple</strong></td><td>I work / she work<strong>s</strong></td><td>I <strong>don't</strong> work / she <strong>doesn't</strong> work</td><td><strong>Do</strong> you work? / <strong>Does</strong> she work?</td></tr>\n<tr><td><strong>Present continuous</strong></td><td>I <strong>am working</strong> / she <strong>is working</strong></td><td>I<strong>'m not</strong> working / she <strong>isn't</strong> working</td><td><strong>Are</strong> you working? / <strong>Is</strong> she working?</td></tr>\n</table>\n<p>Gli <strong>avverbi di frequenza</strong> (<em>always, usually, often, sometimes, never</em>) vanno <strong>prima del verbo principale</strong> ma <strong>dopo</strong> il verbo <em>be</em>: <em>I <strong>always</strong> walk to school</em> — non <s>I walk always</s>.</p>\n<p>I <strong>verbi di stato</strong> (<em>know, like, want, need, prefer, understand</em>) di norma non si usano in -ing: <em>I <strong>want</strong> an ice cream</em> — non <s>I am wanting</s>.</p>\n<p>Confronta: <em>I <strong>study</strong> English every day</em> (abitudine) / <em>I <strong>am studying</strong> English now</em> (in questo momento).</p>\n<p>---</p>"
+                },
+                {
+                    "numero": 3,
+                    "titolo": "Practice A — riconoscimento",
+                    "blocchi": [
+                        {
+                            "istruzione": "A1. Scegli l'opzione corretta.",
+                            "tipo": "mc",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "mc",
+                                    "testo": "Anna ______ to school by bus every day.",
+                                    "opzioni": [
+                                        "is going",
+                                        "goes",
+                                        "go"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>every day</em> indica abitudine: present simple. Con <em>is going</em> la frase parlerebbe di adesso o di un programma futuro."
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "mc",
+                                    "testo": "Look out of the window! It ______ .",
+                                    "opzioni": [
+                                        "rains",
+                                        "is raining",
+                                        "raining"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>Look!</em> segnala un'azione in corso sotto i tuoi occhi: present continuous."
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "mc",
+                                    "testo": "Be quiet, please: we ______ a film.",
+                                    "opzioni": [
+                                        "watch",
+                                        "are watching",
+                                        "watches"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>Be quiet</em> dice che sta succedendo ora."
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "mc",
+                                    "testo": "She ______ coffee. She prefers tea.",
+                                    "opzioni": [
+                                        "doesn't like",
+                                        "isn't liking",
+                                        "don't like"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "<em>like</em> è un verbo di stato: niente forma in -ing. Attenzione anche alla terza persona: <em>doesn't</em>, non <em>don't</em>."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "A2. Trova l'errore e riscrivi la frase corretta. Attenzione: una frase è già giusta.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 5,
+                                    "tipo": "aperta",
+                                    "testo": "I go always to bed at ten o'clock.",
+                                    "modello": "Errore: <em>I always go to bed at ten o'clock.</em>",
+                                    "spiegazione": "l'avverbio di frequenza va prima del verbo principale, non dopo."
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "aperta",
+                                    "testo": "He plays football twice a week.",
+                                    "modello": "Corretta.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "aperta",
+                                    "testo": "They are knowing the answer.",
+                                    "modello": "Errore: <em>They know the answer.</em>",
+                                    "spiegazione": "<em>know</em> è un verbo di stato, non si usa in -ing."
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "aperta",
+                                    "testo": "Does she likes English?",
+                                    "modello": "Errore: <em>Does she like English?</em>",
+                                    "spiegazione": "dopo <em>does</em> il verbo torna alla forma base: la -s è già dentro <em>does</em>."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "titolo": "Practice B — produzione",
+                    "blocchi": [
+                        {
+                            "istruzione": "B1. Completa con il verbo tra parentesi al present simple o al present continuous.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 9,
+                                    "tipo": "gap",
+                                    "testo": "Listen! Somebody ______ (play) the guitar in the next room.",
+                                    "accettate": [
+                                        "is playing"
+                                    ],
+                                    "spiegazione": "<em>Listen!</em> = azione in corso adesso."
+                                },
+                                {
+                                    "n": 10,
+                                    "tipo": "gap",
+                                    "testo": "My parents ______ (work) from Monday to Friday.",
+                                    "accettate": [
+                                        "work"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 11,
+                                    "tipo": "gap",
+                                    "testo": "Dad can't come to the phone: he ______ (cook) dinner right now.",
+                                    "accettate": [
+                                        "is cooking"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 12,
+                                    "tipo": "gap",
+                                    "testo": "Tom ______ (not/study) French this year: he chose Spanish instead.",
+                                    "accettate": [
+                                        "isn't studying"
+                                    ],
+                                    "spiegazione": "<em>this year</em> qui è un periodo temporaneo intorno a ora: continuous. <em>Doesn't study</em> direbbe che non lo studia mai, in generale."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B2. Traduci in inglese.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 13,
+                                    "tipo": "aperta",
+                                    "testo": "Di solito mi alzo alle sette.",
+                                    "modello": "I usually get up at seven (o'clock).",
+                                    "spiegazione": "<em>usually</em> prima del verbo."
+                                },
+                                {
+                                    "n": 14,
+                                    "tipo": "aperta",
+                                    "testo": "Non sto guardando la TV: sto facendo i compiti.",
+                                    "modello": "I'm not watching TV: I'm doing my homework.",
+                                    "spiegazione": "entrambe le azioni sono di adesso; <em>i compiti</em> = <em>homework</em>, sempre singolare e senza articolo."
+                                },
+                                {
+                                    "n": 15,
+                                    "tipo": "aperta",
+                                    "testo": "Mia sorella non mangia mai alla mensa.",
+                                    "modello": "My sister never eats at the canteen.",
+                                    "spiegazione": "<em>never</em> è già negativo: niente <em>doesn't</em>, e il verbo prende la -s."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B3. Risposta personale. Scrivi una frase vera per te, con il present simple e un avverbio di frequenza.",
+                            "tipo": "libera",
+                            "item": [
+                                {
+                                    "n": 16,
+                                    "tipo": "libera",
+                                    "testo": "What do you usually do after school?",
+                                    "guida": "Risposta libera. Controlla tre cose: present simple, avverbio di frequenza prima del verbo, frase completa (soggetto + verbo)."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "titolo": "Use of English — trasformazione",
+                    "blocchi": [
+                        {
+                            "istruzione": "",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 17,
+                                    "tipo": "aperta",
+                                    "testo": "Inserisci l'avverbio nella posizione giusta e riscrivi: <em>I check my phone before breakfast.</em> (<strong>ALWAYS</strong>)",
+                                    "modello": "I always check my phone before breakfast.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 18,
+                                    "tipo": "aperta",
+                                    "testo": "Volgi alla forma negativa: <em>She goes to the gym on Fridays.</em>",
+                                    "modello": "She doesn't go to the gym on Fridays.",
+                                    "spiegazione": "<em>doesn't</em> + forma base: la -s di <em>goes</em> sparisce."
+                                },
+                                {
+                                    "n": 19,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda per questa risposta: — ______ ? — He gets up at half past six.",
+                                    "modello": "What time does he get up?",
+                                    "spiegazione": "serve <em>does</em>, e <em>get up</em> resta alla forma base."
+                                },
+                                {
+                                    "n": 20,
+                                    "tipo": "aperta",
+                                    "testo": "Volgi alla forma interrogativa: <em>They are using the computers in the lab.</em>",
+                                    "modello": "Are they using the computers in the lab?",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 21,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi al tempo giusto aggiungendo <em>at the moment</em>: <em>She reads a book.</em>",
+                                    "modello": "She is reading a book at the moment.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 22,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda per questa risposta: — ______ ? — I'm doing my English homework.",
+                                    "modello": "What are you doing?",
+                                    "spiegazione": "domanda al continuous: la risposta parla di adesso."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "titolo": "Reading",
+                    "testo": "<p><strong>A summer between school and the sea</strong></p>\n<p>Leo is fourteen and this is his first year at a technical school in the north of Italy. Lessons start at eight o'clock and finish at two. He studies ten subjects; his favourites are maths and technology. On Thursdays his class works in the workshop, where students learn to use tools and build small electric circuits. Leo loves these lessons because he wants to become an electrician, like his uncle.</p>\n<p>After school he usually has lunch at home, does his homework and then plays five-a-side football with his friends twice a week.</p>\n<p>It is July now, so Leo isn't going to school these days. He is spending the summer at his grandparents' house near the sea. In the morning he swims or rides his bike. In the afternoon he is building a small lamp for his bedroom — a good exercise for a future electrician! His English is getting better too: he watches videos in English every evening to improve it.</p>",
+                    "blocchi": [
+                        {
+                            "istruzione": "Rispondi in inglese, con frasi brevi. Poi confronta con la soluzione.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 23,
+                                    "tipo": "aperta",
+                                    "testo": "What time do lessons start and finish?",
+                                    "modello": "They start at eight (o'clock) and finish at two.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 24,
+                                    "tipo": "aperta",
+                                    "testo": "What do the students do in the workshop on Thursdays?",
+                                    "modello": "They learn to use tools and build small electric circuits.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 25,
+                                    "tipo": "aperta",
+                                    "testo": "Does Leo do sport only during the school year? How do you know?",
+                                    "modello": "No. During the summer he swims and rides his bike (and in the school year he plays five-a-side football).",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 26,
+                                    "tipo": "aperta",
+                                    "testo": "Why is building the lamp a useful activity for Leo's future?",
+                                    "modello": "Because he wants to become an electrician, and the lamp is electrical work / good practice.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 27,
+                                    "tipo": "aperta",
+                                    "testo": "Guarda l'ultima frase: che cosa significa <em>improve</em>? Prova a dedurlo dal contesto, senza dizionario.",
+                                    "modello": "<em>Improve</em> = migliorare. Il contesto aiuta: \"His English is getting better too\" dice la stessa cosa con altre parole.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 28,
+                                    "tipo": "aperta",
+                                    "testo": "Trova nel testo tre verbi al present continuous e copiali. Perché il testo usa questo tempo e non il present simple?",
+                                    "modello": "<em>is spending, is building, is getting</em> (accettabile anche <em>isn't going</em>). Sono azioni temporanee del periodo intorno a \"adesso\" (l'estate), non abitudini di sempre.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "titolo": "Writing",
+                    "item": [
+                        {
+                            "n": 29,
+                            "tipo": "writing",
+                            "testo": "Scrivi una mail a un amico inglese. Raccontagli la tua routine (scolastica o estiva) e che cosa stai facendo in questi giorni. Usa il present simple per le abitudini, il present continuous per le azioni temporanee e almeno due avverbi di frequenza. Firma con un nome di fantasia.",
+                            "modello": "Hi Sam,<br />\nhow are you? In summer my days are simple. I usually get up late, then I ride my bike to the beach with my cousins. In the afternoon I often play video games or read comics. This week I'm also helping my grandfather in his garden: we're building a small wooden table. I never go to bed before midnight!<br />\nWrite soon,<br />\nLuke",
+                            "criteri": [
+                                "Hai usato almeno due avverbi di frequenza, e sono <strong>prima</strong> del verbo?",
+                                "Le abitudini sono al present simple e le azioni di questi giorni al present continuous?",
+                                "Hai contato le parole? Tra 60 e 80, saluti esclusi."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "totaleItem": 37
+        },
+        {
+            "id": "unit-02-past-simple",
+            "numero": 2,
+            "titolo": "Past simple",
+            "focus": "past simple (passato semplice), regolari e irregolari",
+            "tempo": 50,
+            "sezioni": [
+                {
+                    "numero": 1,
+                    "titolo": "Warm-up lessicale",
+                    "parole": [
+                        "flat",
+                        "stairs",
+                        "kitchen",
+                        "square",
+                        "bridge",
+                        "factory",
+                        "farm",
+                        "street"
+                    ],
+                    "nota": "<strong>False friend:</strong> <em>factory</em> è la fabbrica, non la fattoria. La fattoria è <em>farm</em> — le hai entrambe nel riquadro, non invertirle.",
+                    "blocchi": [
+                        {
+                            "istruzione": "Area: casa e città. Completa ogni frase con la parola giusta scelta dal riquadro. Ogni parola si usa una sola volta.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "gap",
+                                    "testo": "We live in a small ______ on the third floor of an old building.",
+                                    "accettate": [
+                                        "flat"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "gap",
+                                    "testo": "The lift didn't work, so we climbed the ______ .",
+                                    "accettate": [
+                                        "stairs"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "gap",
+                                    "testo": "We had breakfast in the ______ this morning, all together.",
+                                    "accettate": [
+                                        "kitchen"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "gap",
+                                    "testo": "The market is in the main ______ , in front of the church.",
+                                    "accettate": [
+                                        "square"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 5,
+                                    "tipo": "gap",
+                                    "testo": "We crossed the old stone ______ over the river.",
+                                    "accettate": [
+                                        "bridge"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "gap",
+                                    "testo": "My grandfather worked in a car ______ for thirty years.",
+                                    "accettate": [
+                                        "factory"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "gap",
+                                    "testo": "My cousins live on a ______ with cows and chickens.",
+                                    "accettate": [
+                                        "farm"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "gap",
+                                    "testo": "I met Anna in the ______ outside the supermarket.",
+                                    "accettate": [
+                                        "street"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "titolo": "Grammar focus — la regola in breve",
+                    "html": "<p>Il <strong>past simple</strong> si usa per azioni concluse in un momento determinato del passato. I verbi regolari aggiungono <strong>-ed</strong> (<em>work → worked</em>); gli irregolari vanno imparati a memoria.</p>\n<table>\n<tr><th></th><th>Regolare</th><th>Irregolare</th></tr>\n<tr><td><strong>Affermativa</strong></td><td>I work<strong>ed</strong></td><td>I <strong>went</strong></td></tr>\n<tr><td><strong>Negativa</strong></td><td>I <strong>didn't</strong> work</td><td>I <strong>didn't</strong> go</td></tr>\n<tr><td><strong>Interrogativa</strong></td><td><strong>Did</strong> you work?</td><td><strong>Did</strong> you go?</td></tr>\n</table>\n<p>Nella negativa e nella domanda il verbo torna alla <strong>forma base</strong>: il passato è già dentro <em>did</em>. Quindi <em>Did you <strong>go</strong>?</em> — non <s>Did you went?</s></p>\n<p>Irregolari ad alta frequenza da sapere subito: <em>go→went, have→had, see→saw, do→did, make→made, get→got, come→came, take→took, say→said, write→wrote, be→was/were, eat→ate</em>.</p>\n<p><strong>Marcatori temporali:</strong> <em>yesterday, last week, in 2019, two days <strong>ago</strong></em> — attenzione: <em>ago</em> va <strong>dopo</strong> il periodo di tempo.</p>\n<p>Confronta: <em>I see my friends every day</em> (abitudine, presente) / <em>I <strong>saw</strong> my friends <strong>yesterday</strong></em> (momento determinato, passato).</p>\n<p>---</p>"
+                },
+                {
+                    "numero": 3,
+                    "titolo": "Practice A — riconoscimento",
+                    "blocchi": [
+                        {
+                            "istruzione": "A1. Scegli l'opzione corretta.",
+                            "tipo": "mc",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "mc",
+                                    "testo": "I ______ to the cinema last Saturday.",
+                                    "opzioni": [
+                                        "go",
+                                        "went",
+                                        "have gone"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>last Saturday</em> è un momento determinato e concluso: past simple. <em>Have gone</em> collegherebbe l'azione al presente."
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "mc",
+                                    "testo": "She ______ TV yesterday evening.",
+                                    "opzioni": [
+                                        "didn't watch",
+                                        "didn't watched",
+                                        "doesn't watched"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "dopo <em>didn't</em> il verbo torna alla forma base: il passato è già in <em>did</em>."
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "mc",
+                                    "testo": "______ you ______ the match two days ago?",
+                                    "opzioni": [
+                                        "Did / see",
+                                        "Did / saw",
+                                        "Do / saw"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "stessa regola nella domanda: <em>Did you see?</em>, mai <s>Did you saw</s>."
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "mc",
+                                    "testo": "We ______ in Turin in 2019.",
+                                    "opzioni": [
+                                        "live",
+                                        "lived",
+                                        "living"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": ""
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "A2. Vero o falso? Se falso, scrivi la versione corretta.",
+                            "tipo": "vf",
+                            "item": [
+                                {
+                                    "n": 5,
+                                    "tipo": "vf",
+                                    "testo": "<em>Ago</em> si mette prima del periodo di tempo (es. <em>ago two years</em>).",
+                                    "risposta": "F",
+                                    "spiegazione": "<em>ago</em> va dopo il periodo: <em>two years ago</em>."
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "vf",
+                                    "testo": "Nelle domande con <em>did</em>, il verbo principale resta alla forma base.",
+                                    "risposta": "V",
+                                    "spiegazione": "Vero."
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "vf",
+                                    "testo": "La frase <em>She didn't went to school</em> è corretta.",
+                                    "risposta": "F",
+                                    "spiegazione": "<em>She didn't go to school</em>: dopo <em>didn't</em>, forma base."
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "vf",
+                                    "testo": "Il past simple di <em>have</em> è <em>had</em>.",
+                                    "risposta": "V",
+                                    "spiegazione": "Vero."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "titolo": "Practice B — produzione",
+                    "blocchi": [
+                        {
+                            "istruzione": "B1. Completa con il verbo tra parentesi al past simple.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 9,
+                                    "tipo": "gap",
+                                    "testo": "Last night I ______ (write) a message to my cousin.",
+                                    "accettate": [
+                                        "wrote"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 10,
+                                    "tipo": "gap",
+                                    "testo": "They ______ (not/come) to the party on Friday.",
+                                    "accettate": [
+                                        "didn't come"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 11,
+                                    "tipo": "gap",
+                                    "testo": "We ______ (take) the bus yesterday morning.",
+                                    "accettate": [
+                                        "took"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 12,
+                                    "tipo": "gap",
+                                    "testo": "My sister ______ (make) a cake for my birthday last month.",
+                                    "accettate": [
+                                        "made"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B2. Traduci in inglese.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 13,
+                                    "tipo": "aperta",
+                                    "testo": "Ieri non sono andato a scuola.",
+                                    "modello": "I didn't go to school yesterday.",
+                                    "spiegazione": "il passato prossimo italiano (\"sono andato\") qui diventa past simple, perché <em>ieri</em> è un momento concluso."
+                                },
+                                {
+                                    "n": 14,
+                                    "tipo": "aperta",
+                                    "testo": "Hai visto quel film sabato scorso?",
+                                    "modello": "Did you see that film last Saturday?",
+                                    "spiegazione": "<em>did</em> + forma base <em>see</em>."
+                                },
+                                {
+                                    "n": 15,
+                                    "tipo": "aperta",
+                                    "testo": "Due anni fa abitavamo in campagna.",
+                                    "modello": "Two years ago we lived in the country(side).",
+                                    "spiegazione": "anche l'imperfetto italiano (\"abitavamo\") diventa past simple quando indica un fatto passato e concluso."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B3. Riordina le parole e scrivi la frase.",
+                            "tipo": "riordino",
+                            "item": [
+                                {
+                                    "n": 16,
+                                    "tipo": "riordino",
+                                    "testo": "ago / moved / we / three / to / years / this / city",
+                                    "accettate": [
+                                        "We moved to this city three years ago."
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "titolo": "Use of English — trasformazione",
+                    "blocchi": [
+                        {
+                            "istruzione": "",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 17,
+                                    "tipo": "aperta",
+                                    "testo": "Volgi al past simple: <em>I get up at seven and catch the bus.</em>",
+                                    "modello": "I got up at seven and caught the bus.",
+                                    "spiegazione": "due irregolari: <em>get→got</em>, <em>catch→caught</em>."
+                                },
+                                {
+                                    "n": 18,
+                                    "tipo": "aperta",
+                                    "testo": "Volgi alla forma negativa: <em>He played basketball last year.</em>",
+                                    "modello": "He didn't play basketball last year.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 19,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda per questa risposta: — ______ ? — We moved here in 2019.",
+                                    "modello": "When did you move here?",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 20,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi usando <strong>AGO</strong>: <em>It's three years since we bought this car.</em>",
+                                    "modello": "We bought this car three years ago.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 21,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda per questa risposta (uscire = <em>go out</em>): — ______ ? — No, she didn't. She stayed at home.",
+                                    "modello": "Did she go out last night?",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 22,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi al passato con <strong>LAST MONDAY</strong>: <em>He goes to the pool on Mondays.</em>",
+                                    "modello": "He went to the pool last Monday.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "titolo": "Reading",
+                    "testo": "<p><strong>Moving day</strong></p>\n<p>Last summer, Giulia's family moved from a small farm in the hills to a flat in the city. Giulia didn't want to leave: she loved the animals, the garden and the silence. On moving day she got up at six, said goodbye to the chickens and cried a little in the kitchen.</p>\n<p>The first weeks in the city were difficult. The streets were noisy, the flat felt small, and Giulia didn't know anybody in the neighbourhood.</p>\n<p>Then, in September, school started. Giulia met two girls from her class in the square near her building, and they became friends. They showed her the skate park, the library and the best ice-cream shop in town.</p>\n<p>Now Giulia still misses the farm, but she likes her new life too. Last weekend her new friends visited the old farm with her — and they fed the chickens together.</p>",
+                    "blocchi": [
+                        {
+                            "istruzione": "Rispondi in inglese, con frasi brevi. Poi confronta con la soluzione.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 23,
+                                    "tipo": "aperta",
+                                    "testo": "Where did Giulia's family live before they moved?",
+                                    "modello": "They lived on a small farm in the hills.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 24,
+                                    "tipo": "aperta",
+                                    "testo": "What did Giulia do on moving day?",
+                                    "modello": "She got up at six, said goodbye to the chickens and cried a little in the kitchen.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 25,
+                                    "tipo": "aperta",
+                                    "testo": "How do we know that Giulia was unhappy about the move? Find two clues in the text.",
+                                    "modello": "She didn't want to leave, and she cried on moving day. (Vanno bene due indizi qualsiasi tra questi e \"she loved the animals, the garden and the silence\".)",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 26,
+                                    "tipo": "aperta",
+                                    "testo": "Did Giulia's feelings change after September? How do you know?",
+                                    "modello": "Yes. She met two girls, they became friends, and now she likes her new life too.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 27,
+                                    "tipo": "aperta",
+                                    "testo": "Guarda la seconda parte del testo: che cosa significa <em>noisy</em>? Prova a dedurlo dal contesto (aiuto: Giulia amava il silenzio della campagna).",
+                                    "modello": "<em>Noisy</em> = rumorose. Il contrasto con il silenzio della campagna che Giulia amava fa capire il significato.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 28,
+                                    "tipo": "aperta",
+                                    "testo": "Trova nel testo cinque verbi al past simple <strong>irregolare</strong> e scrivi accanto a ciascuno l'infinito.",
+                                    "modello": "Cinque a scelta tra: <em>got up</em> (get up), <em>said</em> (say), <em>were/was</em> (be), <em>felt</em> (feel), <em>met</em> (meet), <em>became</em> (become), <em>fed</em> (feed), <em>didn't know</em> (know). Attenzione: <em>moved, loved, cried, started, showed, visited</em> sono regolari.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "titolo": "Writing",
+                    "item": [
+                        {
+                            "n": 29,
+                            "tipo": "writing",
+                            "testo": "Racconta una gita, una partita o un viaggio che ricordi bene: dove sei andato, con chi, che cosa è successo, com'è finita. Usa solo il past simple e almeno tre marcatori temporali (<em>yesterday, last..., ago, in...</em>). Nomi di fantasia per le persone.",
+                            "modello": "Last October I went to Milan with my class. We took the train at seven and visited the science museum. I saw a real submarine for the first time! At lunch we ate pizza in a big square near the cathedral. On the way back my friends and I played cards, and Leo lost every game. We got home at six, tired but happy.",
+                            "criteri": [
+                                "I verbi al passato sono tutti corretti? Controlla gli irregolari sulla lista della sezione 2.",
+                                "Hai usato almeno tre marcatori temporali (<em>yesterday, last..., ago, in...</em>)?",
+                                "Hai contato le parole? Tra 60 e 80."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "totaleItem": 37
+        },
+        {
+            "id": "unit-03-futuro",
+            "numero": 3,
+            "titolo": "Il futuro: will, going to, present continuous",
+            "focus": "scegliere la forma giusta per parlare di futuro",
+            "tempo": 50,
+            "sezioni": [
+                {
+                    "numero": 1,
+                    "titolo": "Warm-up lessicale",
+                    "parole": [
+                        "platform",
+                        "ticket",
+                        "luggage",
+                        "journey",
+                        "flight",
+                        "abroad",
+                        "catch",
+                        "eventually"
+                    ],
+                    "nota": "<strong>False friend:</strong> <em>eventually</em> significa \"alla fine, prima o poi\" — non \"eventualmente\". Per dire \"eventualmente\" si usa <em>possibly</em> o <em>if necessary</em>.",
+                    "blocchi": [
+                        {
+                            "istruzione": "Area: viaggi e trasporti. Completa ogni frase con la parola giusta scelta dal riquadro. Ogni parola si usa una sola volta.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "gap",
+                                    "testo": "Our train leaves from ______ 3 in ten minutes!",
+                                    "accettate": [
+                                        "platform"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "gap",
+                                    "testo": "You can buy your ______ at the machine or online.",
+                                    "accettate": [
+                                        "ticket"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "gap",
+                                    "testo": "Put your ______ on the shelf above the seats.",
+                                    "accettate": [
+                                        "luggage"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "gap",
+                                    "testo": "The ______ from Rome to Palermo takes about eleven hours by train.",
+                                    "accettate": [
+                                        "journey"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 5,
+                                    "tipo": "gap",
+                                    "testo": "Our ______ to London leaves at 6.40, so we must be at the airport at five.",
+                                    "accettate": [
+                                        "flight"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "gap",
+                                    "testo": "My cousin is studying ______ this year, in Ireland.",
+                                    "accettate": [
+                                        "abroad"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "gap",
+                                    "testo": "Hurry up or we won't ______ the last bus!",
+                                    "accettate": [
+                                        "catch"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "gap",
+                                    "testo": "The train was very late, but ______ we arrived.",
+                                    "accettate": [
+                                        "eventually"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "titolo": "Grammar focus — la regola in breve",
+                    "html": "<p>L'inglese ha tre modi principali di parlare di futuro. La difficoltà non è la forma: è <strong>scegliere quella giusta</strong>.</p>\n<table>\n<tr><th>Forma</th><th>Quando si usa</th><th>Esempio</th></tr>\n<tr><td><strong>will</strong> + forma base</td><td>previsioni e opinioni; decisioni prese <strong>in quel momento</strong></td><td><em>I think it <strong>will rain</strong> tomorrow. / The bag is heavy? I<strong>'ll take</strong> it!</em></td></tr>\n<tr><td><strong>be going to</strong> + forma base</td><td>intenzioni <strong>già decise</strong>; previsioni con prova evidente</td><td><em>I<strong>'m going to</strong> study more this year. / Look at the sky: it<strong>'s going to</strong> rain.</em></td></tr>\n<tr><td><strong>present continuous</strong></td><td>appuntamenti e programmi <strong>già fissati</strong> (si sa quando e con chi)</td><td><em>We<strong>'re meeting</strong> Anna at six tomorrow.</em></td></tr>\n</table>\n<p>Confronta: <em>I'<strong>ll</strong> carry that for you</em> (decido adesso, mentre parlo) / <em>I'<strong>m going to</strong> buy a new phone</em> (l'ho deciso da tempo) / <em>I'<strong>m seeing</strong> the dentist at five</em> (appuntamento preso).</p>\n<p>---</p>"
+                },
+                {
+                    "numero": 3,
+                    "titolo": "Practice A — riconoscimento",
+                    "blocchi": [
+                        {
+                            "istruzione": "A1. Abbina ogni frase al suo uso: (a) previsione · (b) decisione presa al momento · (c) intenzione già decisa · (d) appuntamento fissato.",
+                            "tipo": "mc",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "mc",
+                                    "testo": "\"The bag is really heavy — I'll take it.\"",
+                                    "opzioni": [
+                                        "previsione",
+                                        "decisione presa al momento",
+                                        "intenzione già decisa",
+                                        "appuntamento fissato"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "decisione presa nel momento in cui si parla."
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "mc",
+                                    "testo": "\"We're playing in the final on Saturday at three.\"",
+                                    "opzioni": [
+                                        "previsione",
+                                        "decisione presa al momento",
+                                        "intenzione già decisa",
+                                        "appuntamento fissato"
+                                    ],
+                                    "corretta": 3,
+                                    "spiegazione": "c'è giorno e ora: è fissato."
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "mc",
+                                    "testo": "\"I'm going to save money for a new bike.\"",
+                                    "opzioni": [
+                                        "previsione",
+                                        "decisione presa al momento",
+                                        "intenzione già decisa",
+                                        "appuntamento fissato"
+                                    ],
+                                    "corretta": 2,
+                                    "spiegazione": "intenzione decisa in precedenza."
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "mc",
+                                    "testo": "\"In 2050 people will travel in flying taxis.\"",
+                                    "opzioni": [
+                                        "previsione",
+                                        "decisione presa al momento",
+                                        "intenzione già decisa",
+                                        "appuntamento fissato"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "previsione sul futuro lontano."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "A2. Scegli l'opzione corretta.",
+                            "tipo": "mc",
+                            "item": [
+                                {
+                                    "n": 5,
+                                    "tipo": "mc",
+                                    "testo": "Look at those black clouds! It ______ .",
+                                    "opzioni": [
+                                        "will rain",
+                                        "is going to rain",
+                                        "rains"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "la prova è davanti agli occhi (le nuvole nere): <em>going to</em>."
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "mc",
+                                    "testo": "\"The phone's ringing!\" \"OK, I ______ it.\"",
+                                    "opzioni": [
+                                        "'ll answer",
+                                        "'m going to answer",
+                                        "answer"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "decisione istantanea, presa mentre il telefono squilla: <em>will</em>."
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "mc",
+                                    "testo": "We ______ grandma on Sunday: she's expecting us at lunch.",
+                                    "opzioni": [
+                                        "will visit",
+                                        "are visiting",
+                                        "visit"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "la nonna ci aspetta: è un programma già fissato, present continuous."
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "mc",
+                                    "testo": "I'm sure you ______ the test: you studied a lot.",
+                                    "opzioni": [
+                                        "will pass",
+                                        "are passing",
+                                        "pass"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "<em>I'm sure</em> introduce un'opinione/previsione: <em>will</em>."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "titolo": "Practice B — produzione",
+                    "blocchi": [
+                        {
+                            "istruzione": "B1. Completa con il verbo tra parentesi nella forma di futuro più adatta (will / going to / present continuous).",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 9,
+                                    "tipo": "gap",
+                                    "testo": "I've decided: next year I ______ (learn) to play the guitar.",
+                                    "accettate": [
+                                        "'m going to learn"
+                                    ],
+                                    "spiegazione": "deciso in precedenza (\"I've decided\")."
+                                },
+                                {
+                                    "n": 10,
+                                    "tipo": "gap",
+                                    "testo": "\"There are no buses today.\" \"Don't worry, I ______ (drive) you to the station.\"",
+                                    "accettate": [
+                                        "'ll drive"
+                                    ],
+                                    "spiegazione": "decisione presa al momento, come reazione al problema."
+                                },
+                                {
+                                    "n": 11,
+                                    "tipo": "gap",
+                                    "testo": "We ______ (leave) tomorrow at 6.40: the tickets are already in my bag.",
+                                    "accettate": [
+                                        "are leaving",
+                                        "'re leaving",
+                                        "are leaving 're leaving"
+                                    ],
+                                    "spiegazione": "biglietti già comprati: programma fissato."
+                                },
+                                {
+                                    "n": 12,
+                                    "tipo": "gap",
+                                    "testo": "Careful! That glass ______ (fall)!",
+                                    "accettate": [
+                                        "is going to fall"
+                                    ],
+                                    "spiegazione": "previsione con prova evidente."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B2. Traduci in inglese.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 13,
+                                    "tipo": "aperta",
+                                    "testo": "Penso che domani pioverà.",
+                                    "modello": "I think it will rain tomorrow.",
+                                    "spiegazione": "dopo <em>I think</em> la previsione va con <em>will</em>."
+                                },
+                                {
+                                    "n": 14,
+                                    "tipo": "aperta",
+                                    "testo": "Sabato gioco nel torneo della scuola. (già fissato)",
+                                    "modello": "I'm playing in the school tournament on Saturday.",
+                                    "spiegazione": "evento in calendario: present continuous."
+                                },
+                                {
+                                    "n": 15,
+                                    "tipo": "aperta",
+                                    "testo": "Ho intenzione di comprare un regalo per papà.",
+                                    "modello": "I'm going to buy a present for Dad.",
+                                    "spiegazione": "\"ho intenzione di\" = <em>going to</em>."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B3. Risposta personale.",
+                            "tipo": "libera",
+                            "item": [
+                                {
+                                    "n": 16,
+                                    "tipo": "libera",
+                                    "testo": "What are you going to do next weekend? Scrivi una frase vera per te con <em>going to</em>.",
+                                    "guida": "Risposta libera. Controlla: <em>going to</em> + forma base, frase completa e vera per te."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "titolo": "Use of English — trasformazione",
+                    "blocchi": [
+                        {
+                            "istruzione": "",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 17,
+                                    "tipo": "aperta",
+                                    "testo": "Situazione: la tua amica ha le mani occupate e non riesce ad aprire la porta. Offriti di aiutarla, con <em>will</em>.",
+                                    "modello": "I'll open the door (for you).",
+                                    "spiegazione": "accettabile ogni offerta con <em>will</em> + aiuto concreto."
+                                },
+                                {
+                                    "n": 18,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi con <em>going to</em>: <em>Marco has the intention of selling his old bike.</em>",
+                                    "modello": "Marco is going to sell his old bike.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 19,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda per questa risposta: — ______ ? — We're leaving at half past six.",
+                                    "modello": "What time are you leaving?",
+                                    "spiegazione": "la risposta è al present continuous, quindi anche la domanda."
+                                },
+                                {
+                                    "n": 20,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi la previsione basandola sulla prova evidente, con <em>going to</em>: <em>The queue is very long. I think we will wait an hour.</em>",
+                                    "modello": "We are going to wait an hour.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 21,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda per questa risposta: — ______ ? — Yes, I'll come to your party.",
+                                    "modello": "Will you come to my party?",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 22,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi con il present continuous (appuntamento fissato), usando <strong>SEE</strong>: <em>We have an appointment with the dentist tomorrow at five.</em>",
+                                    "modello": "We are seeing the dentist tomorrow at five.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "titolo": "Reading",
+                    "testo": "<p><strong>Martina's first flight</strong></p>\n<p>Next Friday, Martina's class is flying to Dublin for a week of English lessons. It is her first time abroad and her first flight, so she is a little nervous. The plane leaves at 7.15, and the students are meeting at the airport at five o'clock with their teacher, Mr Rinaldi, who has explained the plan a hundred times.</p>\n<p>Martina has already prepared her luggage: warm clothes, an umbrella and a photo of her dog. \"I know it will rain every day,\" she says, \"but I don't care. I'm going to speak English from morning to evening, and eventually I'll dream in English too!\"</p>\n<p>Her brother Davide thinks the trip will be boring. \"A week of lessons? No, thanks.\" But their mum has a different opinion: \"You'll change your mind one day, Davide. And Martina — call us when you land!\"</p>",
+                    "blocchi": [
+                        {
+                            "istruzione": "Rispondi in inglese, con frasi brevi. Poi confronta con la soluzione.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 23,
+                                    "tipo": "aperta",
+                                    "testo": "Where is Martina's class going, and for how long?",
+                                    "modello": "To Dublin, for a week (of English lessons).",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 24,
+                                    "tipo": "aperta",
+                                    "testo": "What has Martina put in her luggage?",
+                                    "modello": "Warm clothes, an umbrella and a photo of her dog.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 25,
+                                    "tipo": "aperta",
+                                    "testo": "How does Martina feel about the trip: worried, excited, or both? Justify with the text.",
+                                    "modello": "Both. She is \"a little nervous\" (worried), but she says \"I don't care\" and has big plans in English (excited).",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 26,
+                                    "tipo": "aperta",
+                                    "testo": "Would Davide like to go on a trip like this one? How do you know?",
+                                    "modello": "No. He says \"A week of lessons? No, thanks\" and thinks the trip will be boring.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 27,
+                                    "tipo": "aperta",
+                                    "testo": "Guarda l'ultima frase: che cosa significa <em>land</em>? Prova a dedurlo dal contesto (la mamma parla del volo).",
+                                    "modello": "<em>Land</em> = atterrare. La mamma chiede di chiamare appena il volo arriva a destinazione.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 28,
+                                    "tipo": "aperta",
+                                    "testo": "Trova nel testo un futuro con <em>will</em>, uno con <em>going to</em> e uno con il present continuous, e spiega in una riga perché ciascuno usa quella forma.",
+                                    "modello": "Esempi validi: <em>it will rain / the trip will be boring / I'll dream</em> (previsioni-opinioni con <em>will</em>); <em>I'm going to speak English</em> (intenzione già decisa); <em>is flying / are meeting</em> (programma fissato con giorno e ora). Basta una forma per tipo, con la ragione giusta.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "titolo": "Writing",
+                    "item": [
+                        {
+                            "n": 29,
+                            "tipo": "writing",
+                            "testo": "Scrivi un messaggio a un amico inglese: raccontagli i tuoi programmi per il prossimo fine settimana. Usa almeno una volta ciascuna delle tre forme: un appuntamento già fissato (present continuous), un'intenzione (going to) e una previsione o una decisione presa al momento (will). Nomi di fantasia.",
+                            "modello": "Hi Jack! On Saturday morning I'm playing five-a-side with my team: we're meeting at nine at the gym. In the afternoon I'm going to finish my science project, because I want a good mark. On Sunday I have no plans. If the weather is nice, I think I'll ride my bike to the lake. Will you come with me?",
+                            "criteri": [
+                                "Ci sono tutte e tre le forme (present continuous, <em>going to</em>, <em>will</em>)?",
+                                "Ogni forma è usata per il motivo giusto (fissato / intenzione / previsione o decisione al momento)?",
+                                "Hai contato le parole? Tra 60 e 80, saluti esclusi."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "totaleItem": 37
+        },
+        {
+            "id": "unit-04-comparativi-superlativi",
+            "numero": 4,
+            "titolo": "Comparativi e superlativi",
+            "focus": "comparativi, superlativi, as ... as",
+            "tempo": 50,
+            "sezioni": [
+                {
+                    "numero": 1,
+                    "titolo": "Warm-up lessicale",
+                    "parole": [
+                        "team",
+                        "match",
+                        "race",
+                        "gym",
+                        "training",
+                        "win",
+                        "lose",
+                        "pretend"
+                    ],
+                    "nota": "<strong>False friend:</strong> <em>pretend</em> significa fingere, non \"pretendere\". Per dire \"pretendere\" si usa <em>to expect</em> o <em>to demand</em>.",
+                    "blocchi": [
+                        {
+                            "istruzione": "Area: sport e tempo libero. Completa ogni frase con la parola giusta scelta dal riquadro. Ogni parola si usa una sola volta.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "gap",
+                                    "testo": "Our ______ has eleven players and a very patient coach.",
+                                    "accettate": [
+                                        "team"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "gap",
+                                    "testo": "The ______ finished 2-2, so nobody was happy.",
+                                    "accettate": [
+                                        "match"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "gap",
+                                    "testo": "Marta came first in the 100-metre ______ .",
+                                    "accettate": [
+                                        "race"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "gap",
+                                    "testo": "I go to the ______ twice a week to do exercise.",
+                                    "accettate": [
+                                        "gym"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 5,
+                                    "tipo": "gap",
+                                    "testo": "We have football ______ on Tuesdays and Thursdays.",
+                                    "accettate": [
+                                        "training"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "gap",
+                                    "testo": "If you ______ this game, you go straight to the final.",
+                                    "accettate": [
+                                        "win"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "gap",
+                                    "testo": "I hate it when we ______ at home, in front of our fans.",
+                                    "accettate": [
+                                        "lose"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "gap",
+                                    "testo": "Some players ______ to be injured just to waste time.",
+                                    "accettate": [
+                                        "pretend"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "titolo": "Grammar focus — la regola in breve",
+                    "html": "<p>Il comparativo confronta due cose (<em>taller than</em>), il superlativo indica il massimo in un gruppo (<em>the tallest in the class</em>).</p>\n<table>\n<tr><th>Tipo di aggettivo</th><th>Comparativo</th><th>Superlativo</th></tr>\n<tr><td>corto: <em>tall</em></td><td>tall<strong>er</strong> than</td><td>the tall<strong>est</strong></td></tr>\n<tr><td>in -y: <em>easy</em></td><td>eas<strong>ier</strong> than</td><td>the eas<strong>iest</strong></td></tr>\n<tr><td>lungo: <em>difficult</em></td><td><strong>more</strong> difficult than</td><td>the <strong>most</strong> difficult</td></tr>\n<tr><td>irregolari: <em>good / bad / far</em></td><td>better / worse / farther than</td><td>the best / the worst / the farthest</td></tr>\n</table>\n<p>Per dire che due cose sono uguali: <em>as fast <strong>as</strong></em> (veloce quanto), <em>not as fast as</em> (meno veloce di), <em>the same <strong>as</strong></em> (uguale a).</p>\n<p>Errore da evitare: il doppio comparativo — <s>more taller</s>. O <em>-er</em> o <em>more</em>, mai insieme.</p>\n<p>Confronta: <em>Basketball is <strong>more popular than</strong> volleyball at our school.</em> / <em>Luca is <strong>as fast as</strong> Marco</em> (= sono veloci uguali).</p>\n<p>---</p>"
+                },
+                {
+                    "numero": 3,
+                    "titolo": "Practice A — riconoscimento",
+                    "blocchi": [
+                        {
+                            "istruzione": "A1. Scegli l'opzione corretta.",
+                            "tipo": "mc",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "mc",
+                                    "testo": "Football is ______ than tennis in Italy.",
+                                    "opzioni": [
+                                        "popularer",
+                                        "more popular",
+                                        "most popular"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>popular</em> è un aggettivo lungo: <em>more popular</em>, senza -er."
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "mc",
+                                    "testo": "This is ______ pizza in town!",
+                                    "opzioni": [
+                                        "the better",
+                                        "the best",
+                                        "the most good"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "superlativo irregolare di <em>good</em>: <em>the best</em>."
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "mc",
+                                    "testo": "My bike is ______ than yours.",
+                                    "opzioni": [
+                                        "more fast",
+                                        "faster",
+                                        "fastest"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>fast</em> è corto: <em>faster</em>, senza <em>more</em>."
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "mc",
+                                    "testo": "Chess is not as ______ as video games, but I like it.",
+                                    "opzioni": [
+                                        "exciting",
+                                        "more exciting",
+                                        "excitinger"
+                                    ],
+                                    "corretta": 0,
+                                    "spiegazione": "dopo <em>as ... as</em> l'aggettivo resta al grado base, mai al comparativo."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "A2. Trova l'errore e riscrivi la frase corretta. Attenzione: una frase è già giusta.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 5,
+                                    "tipo": "aperta",
+                                    "testo": "Anna is more taller than her sister.",
+                                    "modello": "Errore: <em>Anna is taller than her sister.</em>",
+                                    "spiegazione": "niente doppio comparativo (<s>more taller</s>)."
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "aperta",
+                                    "testo": "This is the worst film of the year.",
+                                    "modello": "Corretta.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "aperta",
+                                    "testo": "Swimming is easyer than running for me.",
+                                    "modello": "Errore: <em>Swimming is easier than running for me.</em>",
+                                    "spiegazione": "la -y diventa -i: <em>easier</em>."
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "aperta",
+                                    "testo": "Luca is the same tall as Marco.",
+                                    "modello": "Errore: <em>Luca is as tall as Marco.</em>",
+                                    "spiegazione": "\"alto uguale\" si dice <em>as tall as</em> (oppure <em>the same height as</em>, con il nome, non con l'aggettivo)."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "titolo": "Practice B — produzione",
+                    "blocchi": [
+                        {
+                            "istruzione": "B1. Completa con il comparativo o il superlativo dell'aggettivo tra parentesi.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 9,
+                                    "tipo": "gap",
+                                    "testo": "Today's training was ______ (hard) than yesterday's.",
+                                    "accettate": [
+                                        "harder"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 10,
+                                    "tipo": "gap",
+                                    "testo": "That was ______ (bad) match of the season: we lost 5-0.",
+                                    "accettate": [
+                                        "the worst"
+                                    ],
+                                    "spiegazione": "non dimenticare <em>the</em> nel superlativo."
+                                },
+                                {
+                                    "n": 11,
+                                    "tipo": "gap",
+                                    "testo": "For me, maths is ______ (difficult) subject of all.",
+                                    "accettate": [
+                                        "the most difficult"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 12,
+                                    "tipo": "gap",
+                                    "testo": "My town is ______ (far) from the sea than yours.",
+                                    "accettate": [
+                                        "farther",
+                                        "further"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B2. Traduci in inglese.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 13,
+                                    "tipo": "aperta",
+                                    "testo": "Mio fratello è più alto di me.",
+                                    "modello": "My brother is taller than me. (accettabile <em>than I am</em>)",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 14,
+                                    "tipo": "aperta",
+                                    "testo": "Questo è il libro più interessante della biblioteca.",
+                                    "modello": "This is the most interesting book in the library.",
+                                    "spiegazione": "con i luoghi e i gruppi il superlativo vuole <em>in</em>, non <em>of</em>."
+                                },
+                                {
+                                    "n": 15,
+                                    "tipo": "aperta",
+                                    "testo": "Il nuoto non è faticoso come la corsa. (faticoso = <em>tiring</em>)",
+                                    "modello": "Swimming is not as tiring as running.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B3. Risposta personale.",
+                            "tipo": "libera",
+                            "item": [
+                                {
+                                    "n": 16,
+                                    "tipo": "libera",
+                                    "testo": "Qual è per te lo sport più bello del mondo, e perché? Una frase con un superlativo.",
+                                    "guida": "Risposta libera. Controlla: superlativo con <em>the</em>, forma giusta per la lunghezza dell'aggettivo, frase completa."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "titolo": "Use of English — trasformazione",
+                    "blocchi": [
+                        {
+                            "istruzione": "Riscrivi ogni frase mantenendo il significato e usando la parola data in maiuscolo.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 17,
+                                    "tipo": "aperta",
+                                    "testo": "<em>Marco is younger than Luca.</em> (<strong>OLD</strong>)",
+                                    "modello": "Luca is older than Marco.",
+                                    "spiegazione": "stesso significato, prospettiva rovesciata."
+                                },
+                                {
+                                    "n": 18,
+                                    "tipo": "aperta",
+                                    "testo": "<em>The red trainers cost €80. The blue trainers cost €80.</em> (<strong>SAME</strong>)",
+                                    "modello": "The red trainers cost the same as the blue ones (the blue trainers).",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 19,
+                                    "tipo": "aperta",
+                                    "testo": "<em>Tennis is less popular than football at our school.</em> (<strong>AS</strong>)",
+                                    "modello": "Tennis is not as popular as football at our school.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 20,
+                                    "tipo": "aperta",
+                                    "testo": "<em>No player in the team is as good as Sara.</em> (<strong>BEST</strong>)",
+                                    "modello": "Sara is the best player in the team.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 21,
+                                    "tipo": "aperta",
+                                    "testo": "<em>My result was worse than yours.</em> (<strong>BETTER</strong>)",
+                                    "modello": "Your result was better than mine.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 22,
+                                    "tipo": "aperta",
+                                    "testo": "<em>The gym is nearer than the pool.</em> (<strong>FAR</strong>)",
+                                    "modello": "The pool is farther than the gym. (accettabile <em>further</em>)",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "titolo": "Reading",
+                    "testo": "<p><strong>Faster fingers or faster legs?</strong></p>\n<p>Last month our school opened an e-sports club, and now a big question divides my class: are video games a real sport? Tommaso, the captain of the club, thinks so. \"Our training is as serious as football training,\" he says. \"We practise three times a week, we study our opponents, and a final can be more stressful than a penalty shoot-out.\"</p>\n<p>Elisa, the fastest runner in the school, disagrees. \"In a race my heart works harder than in any video game. Sport means moving your body, not just your fingers.\"</p>\n<p>Their PE teacher has the most balanced opinion of all. \"Chess players don't run, but chess is older than football and nobody calls it a hobby. For me the worst mistake is doing nothing: the best activity is the one you really do, every week.\"</p>",
+                    "blocchi": [
+                        {
+                            "istruzione": "Rispondi in inglese, con frasi brevi. Poi confronta con la soluzione.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 23,
+                                    "tipo": "aperta",
+                                    "testo": "How often does the e-sports club practise?",
+                                    "modello": "Three times a week.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 24,
+                                    "tipo": "aperta",
+                                    "testo": "Who is the fastest runner in the school?",
+                                    "modello": "Elisa.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 25,
+                                    "tipo": "aperta",
+                                    "testo": "Why does Tommaso compare an e-sports final to a penalty shoot-out? What do the two things have in common?",
+                                    "modello": "Because both are very stressful moments.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 26,
+                                    "tipo": "aperta",
+                                    "testo": "Does the PE teacher think video games are a mistake? How do you know?",
+                                    "modello": "No. For him the worst mistake is doing nothing: any activity done every week is good.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 27,
+                                    "tipo": "aperta",
+                                    "testo": "Che cosa significa <em>opponents</em>? Prova a dedurlo dal contesto (si studiano prima delle partite).",
+                                    "modello": "<em>Opponents</em> = avversari. Si studiano prima delle partite per capire come giocano.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 28,
+                                    "tipo": "aperta",
+                                    "testo": "Trova nel testo due comparativi, un superlativo e una struttura <em>as ... as</em>, e copiali.",
+                                    "modello": "Comparativi: <em>more stressful than, harder than, older than</em>. Superlativi: <em>the fastest runner, the most balanced opinion, the worst mistake, the best activity</em>. As...as: <em>as serious as</em>. Bastano due comparativi, un superlativo e la struttura <em>as ... as</em>.",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "titolo": "Writing",
+                    "item": [
+                        {
+                            "n": 29,
+                            "tipo": "writing",
+                            "testo": "Confronta due sport o passatempi che conosci bene: quale è più difficile, più divertente, più economico? Quale preferisci? Usa almeno due comparativi, un superlativo e una struttura <em>as ... as</em>.",
+                            "modello": "I play both football and basketball, but they are very different. Basketball is faster than football and the matches are shorter. Football is more popular in my town, and playing in the park is cheaper: you only need a ball. For me, basketball training is as hard as football training, but the best moment of my week is Sunday's match with my football team.",
+                            "criteri": [
+                                "Ci sono almeno due comparativi, un superlativo e una struttura <em>as ... as</em>?",
+                                "Le forme sono giuste per la lunghezza dell'aggettivo (niente <s>more faster</s>, niente <s>interestinger</s>)?",
+                                "Hai contato le parole? Tra 60 e 80."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "totaleItem": 37
+        },
+        {
+            "id": "unit-05-countable-uncountable",
+            "numero": 5,
+            "titolo": "Countable, uncountable e quantificatori",
+            "focus": "some/any, much/many, a lot of, a few/a little",
+            "tempo": 50,
+            "sezioni": [
+                {
+                    "numero": 1,
+                    "titolo": "Warm-up lessicale",
+                    "parole": [
+                        "waiter",
+                        "bill",
+                        "order",
+                        "dish",
+                        "slice",
+                        "dessert",
+                        "book",
+                        "pepperoni"
+                    ],
+                    "nota": "<strong>False friend:</strong> <em>pepperoni</em> in inglese è il salame piccante. I peperoni sono <em>peppers</em>. Se ordini una \"pepperoni pizza\" a Londra, non arriva la verdura.",
+                    "blocchi": [
+                        {
+                            "istruzione": "Area: cibo e ristorante. Completa ogni frase con la parola giusta scelta dal riquadro. Ogni parola si usa una sola volta.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "gap",
+                                    "testo": "The ______ brought us the menu and some water.",
+                                    "accettate": [
+                                        "waiter"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "gap",
+                                    "testo": "At the end of the meal, Dad asked for the ______ .",
+                                    "accettate": [
+                                        "bill"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "gap",
+                                    "testo": "Are you ready to ______ , or do you need five more minutes?",
+                                    "accettate": [
+                                        "order"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "gap",
+                                    "testo": "The chef's special ______ today is grilled fish with vegetables.",
+                                    "accettate": [
+                                        "dish"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 5,
+                                    "tipo": "gap",
+                                    "testo": "Can I have another ______ of cake, please?",
+                                    "accettate": [
+                                        "slice"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "gap",
+                                    "testo": "For ______ I'd like ice cream with strawberries.",
+                                    "accettate": [
+                                        "dessert"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "gap",
+                                    "testo": "It's Saturday evening: we should ______ a table before we go.",
+                                    "accettate": [
+                                        "book"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "gap",
+                                    "testo": "In the USA, a ______ pizza has spicy salami on it — not peppers!",
+                                    "accettate": [
+                                        "pepperoni"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 2,
+                    "titolo": "Grammar focus — la regola in breve",
+                    "html": "<p>I nomi <strong>numerabili</strong> si contano e hanno il plurale (<em>an egg, two eggs</em>). I <strong>non numerabili</strong> non si contano: niente plurale, niente <em>a/an</em> (<em>water, bread, cheese</em>).</p>\n<table>\n<tr><th></th><th>Numerabili</th><th>Non numerabili</th></tr>\n<tr><td><strong>Affermativa</strong></td><td>some, a lot of, <strong>a few</strong> (<em>a few eggs</em>)</td><td>some, a lot of, <strong>a little</strong> (<em>a little milk</em>)</td></tr>\n<tr><td><strong>Negativa</strong></td><td>any, <strong>many</strong></td><td>any, <strong>much</strong></td></tr>\n<tr><td><strong>Interrogativa</strong></td><td>any, <strong>how many...?</strong></td><td>any, <strong>how much...?</strong></td></tr>\n</table>\n<p>Trappola dall'italiano: <em>information, advice, news, furniture, homework</em> sono <strong>non numerabili</strong> in inglese, anche se in italiano si contano. Quindi <s>an information</s> → <em>some information</em>; \"un consiglio\" → <em>some advice</em> o <em>a piece of advice</em>.</p>\n<p>Confronta: <em>How <strong>many</strong> eggs do we need?</em> (si contano) / <em>How <strong>much</strong> milk do we need?</em> (non si conta).</p>\n<p>---</p>"
+                },
+                {
+                    "numero": 3,
+                    "titolo": "Practice A — riconoscimento",
+                    "blocchi": [
+                        {
+                            "istruzione": "A1. Scegli l'opzione corretta.",
+                            "tipo": "mc",
+                            "item": [
+                                {
+                                    "n": 1,
+                                    "tipo": "mc",
+                                    "testo": "There isn't ______ milk in the fridge.",
+                                    "opzioni": [
+                                        "many",
+                                        "much",
+                                        "a few"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>milk</em> non si conta: <em>much</em>, non <em>many</em>."
+                                },
+                                {
+                                    "n": 2,
+                                    "tipo": "mc",
+                                    "testo": "I need ______ information about the timetable.",
+                                    "opzioni": [
+                                        "an",
+                                        "some",
+                                        "a"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>information</em> è non numerabile: niente <em>a/an</em>, si usa <em>some</em>."
+                                },
+                                {
+                                    "n": 3,
+                                    "tipo": "mc",
+                                    "testo": "How ______ eggs do we need for the cake?",
+                                    "opzioni": [
+                                        "much",
+                                        "many",
+                                        "a little"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>eggs</em> si contano: <em>how many</em>."
+                                },
+                                {
+                                    "n": 4,
+                                    "tipo": "mc",
+                                    "testo": "There are only ______ slices of pizza left.",
+                                    "opzioni": [
+                                        "a little",
+                                        "a few",
+                                        "much"
+                                    ],
+                                    "corretta": 1,
+                                    "spiegazione": "<em>slices</em> è numerabile: <em>a few</em>. <em>A little</em> va solo con i non numerabili."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "A2. Vero o falso? Se falso, scrivi la versione corretta.",
+                            "tipo": "vf",
+                            "item": [
+                                {
+                                    "n": 5,
+                                    "tipo": "vf",
+                                    "testo": "<em>News</em> è plurale, quindi si dice <em>the news are interesting</em>.",
+                                    "risposta": "F",
+                                    "spiegazione": "<em>news</em> è non numerabile nonostante la -s: <em>the news IS interesting</em>."
+                                },
+                                {
+                                    "n": 6,
+                                    "tipo": "vf",
+                                    "testo": "<em>Much</em> si usa soprattutto nelle frasi negative e nelle domande.",
+                                    "risposta": "V",
+                                    "spiegazione": "Vero."
+                                },
+                                {
+                                    "n": 7,
+                                    "tipo": "vf",
+                                    "testo": "Per dire \"un mobile\" si può dire <em>a furniture</em>.",
+                                    "risposta": "F",
+                                    "spiegazione": "si dice <em>a piece of furniture</em>."
+                                },
+                                {
+                                    "n": 8,
+                                    "tipo": "vf",
+                                    "testo": "<em>A few</em> si usa con i numerabili, <em>a little</em> con i non numerabili.",
+                                    "risposta": "V",
+                                    "spiegazione": "Vero."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 4,
+                    "titolo": "Practice B — produzione",
+                    "blocchi": [
+                        {
+                            "istruzione": "B1. Completa con some, any, much, many, a few o a little.",
+                            "tipo": "gap",
+                            "item": [
+                                {
+                                    "n": 9,
+                                    "tipo": "gap",
+                                    "testo": "Is there ______ sugar in this tea?",
+                                    "accettate": [
+                                        "any"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 10,
+                                    "tipo": "gap",
+                                    "testo": "We don't have ______ time: the restaurant closes in ten minutes.",
+                                    "accettate": [
+                                        "much"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 11,
+                                    "tipo": "gap",
+                                    "testo": "There were only ______ people at the pizzeria, so we found a table immediately.",
+                                    "accettate": [
+                                        "a few"
+                                    ],
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 12,
+                                    "tipo": "gap",
+                                    "testo": "I'd like ______ orange juice, please.",
+                                    "accettate": [
+                                        "some"
+                                    ],
+                                    "spiegazione": ""
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B2. Traduci in inglese.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 13,
+                                    "tipo": "aperta",
+                                    "testo": "Non ho molti compiti oggi. (attenzione: <em>homework</em>)",
+                                    "modello": "I don't have much homework today.",
+                                    "spiegazione": "<em>homework</em> non è numerabile: <em>much</em>, e mai <s>homeworks</s>."
+                                },
+                                {
+                                    "n": 14,
+                                    "tipo": "aperta",
+                                    "testo": "C'è un po' di pane sul tavolo.",
+                                    "modello": "There is a little bread on the table. (accettabile <em>some bread</em>)",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 15,
+                                    "tipo": "aperta",
+                                    "testo": "Ti do un consiglio: prenota un tavolo. (attenzione: <em>advice</em>)",
+                                    "modello": "I'll give you some advice (a piece of advice): book a table.",
+                                    "spiegazione": "mai <s>an advice</s>."
+                                }
+                            ]
+                        },
+                        {
+                            "istruzione": "B3. Risposta personale.",
+                            "tipo": "libera",
+                            "item": [
+                                {
+                                    "n": 16,
+                                    "tipo": "libera",
+                                    "testo": "What do you usually have for breakfast? Rispondi con una frase vera per te, usando <em>some</em> almeno una volta.",
+                                    "guida": "Risposta libera. Controlla: <em>some</em> + nome giusto (plurale se numerabile, singolare se non numerabile), frase completa."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 5,
+                    "titolo": "Use of English — trasformazione",
+                    "blocchi": [
+                        {
+                            "istruzione": "",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 17,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi usando <strong>A LOT OF</strong>: <em>We bought many tomatoes and much cheese.</em>",
+                                    "modello": "We bought a lot of tomatoes and a lot of cheese.",
+                                    "spiegazione": "<em>a lot of</em> funziona con entrambi i tipi di nome."
+                                },
+                                {
+                                    "n": 18,
+                                    "tipo": "aperta",
+                                    "testo": "Volgi alla forma negativa: <em>There is some ham in the sandwich.</em>",
+                                    "modello": "There isn't any ham in the sandwich.",
+                                    "spiegazione": "nella negativa, <em>some</em> diventa <em>any</em>."
+                                },
+                                {
+                                    "n": 19,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda (patate = <em>potatoes</em>): — ______ ? — Two kilos, please.",
+                                    "modello": "How many potatoes do you want (would you like)?",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 20,
+                                    "tipo": "aperta",
+                                    "testo": "Scrivi la domanda (zucchero = <em>sugar</em>): — ______ ? — Only a little, thanks.",
+                                    "modello": "How much sugar do you want (would you like)?",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 21,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi correggendo l'errore: <em>The teacher gave us a homework for tomorrow.</em>",
+                                    "modello": "The teacher gave us some homework for tomorrow.",
+                                    "spiegazione": "<em>homework</em> non ha né <em>a</em> né plurale."
+                                },
+                                {
+                                    "n": 22,
+                                    "tipo": "aperta",
+                                    "testo": "Riscrivi al plurale, con il numero dato: <em>There is a tomato in the fridge.</em> (<strong>three</strong>)",
+                                    "modello": "There are three tomatoes in the fridge.",
+                                    "spiegazione": "occhio anche a <em>is → are</em>."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 6,
+                    "titolo": "Reading",
+                    "testo": "<p><strong>Sunday lunch at my grandparents'</strong></p>\n<p>Every Sunday my family has lunch at my grandparents' house, and every Sunday there is too much food. My grandmother starts cooking at seven in the morning: fresh pasta, two or three different dishes, a lot of vegetables from her garden and, of course, a dessert.</p>\n<p>\"We are only six people!\" my mother always says. But for my grandmother, a table with only a little food on it is a sad table.</p>\n<p>My job is to help in the kitchen. I don't have much experience, but I can do a few simple things: I cut the bread into slices, I prepare the salad and I set the table.</p>\n<p>Last Sunday I asked her for some advice about a cake for a school party. She gave me her secret recipe — but only a part of it. \"The rest,\" she said, \"you will learn with your hands, not with your ears.\"</p>",
+                    "blocchi": [
+                        {
+                            "istruzione": "Rispondi in inglese, con frasi brevi. Poi confronta con la soluzione.",
+                            "tipo": "aperta",
+                            "item": [
+                                {
+                                    "n": 23,
+                                    "tipo": "aperta",
+                                    "testo": "What time does the grandmother start cooking on Sundays?",
+                                    "modello": "At seven (in the morning).",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 24,
+                                    "tipo": "aperta",
+                                    "testo": "What jobs does the writer do in the kitchen?",
+                                    "modello": "He/She cuts the bread into slices, prepares the salad and sets the table.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 25,
+                                    "tipo": "aperta",
+                                    "testo": "Why does the mother say \"We are only six people!\"? What is she really saying to the grandmother?",
+                                    "modello": "Because the grandmother cooks too much food for six people: she is asking her to cook less.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 26,
+                                    "tipo": "aperta",
+                                    "testo": "Why does the grandmother give the writer only a part of the recipe?",
+                                    "modello": "Because the rest can only be learned by doing it (\"with your hands\"), not by listening.",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 27,
+                                    "tipo": "aperta",
+                                    "testo": "Che cosa significa <em>recipe</em>? Prova a dedurlo dal contesto (serve per fare una torta).",
+                                    "modello": "<em>Recipe</em> = ricetta (le istruzioni per cucinare un piatto).",
+                                    "spiegazione": ""
+                                },
+                                {
+                                    "n": 28,
+                                    "tipo": "aperta",
+                                    "testo": "Trova nel testo un quantificatore usato con un nome non numerabile, uno usato con un nome numerabile, e un nome che in inglese è non numerabile ma in italiano si conta.",
+                                    "modello": "Non numerabile: <em>too much food / much experience / a little food / some advice</em>. Numerabile: <em>a few simple things / two or three different dishes</em>. Non numerabile in inglese ma numerabile in italiano: <em>advice</em> (accettabile anche <em>experience</em>).",
+                                    "spiegazione": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": 7,
+                    "titolo": "Writing",
+                    "item": [
+                        {
+                            "n": 29,
+                            "tipo": "writing",
+                            "testo": "Descrivi il tuo piatto preferito: che cosa c'è dentro, che cosa serve per prepararlo, che cosa ci bevi insieme. Usa <em>some/any</em>, <em>much/many</em> o <em>a lot of</em> almeno quattro volte in tutto.",
+                            "modello": "My favourite meal is my mum's lasagna. You need some pasta, a lot of tomato sauce, some cheese and a little milk for the white sauce. We don't put any meat in it, because my aunt is vegetarian. I always eat two big slices, and there isn't much conversation at the table when the lasagna arrives! With it we drink water or some orange juice.",
+                            "criteri": [
+                                "Hai usato almeno quattro quantificatori, ciascuno con il tipo di nome giusto?",
+                                "Nessun non numerabile al plurale o con <em>a/an</em> (<s>informations</s>, <s>a bread</s>)?",
+                                "Hai contato le parole? Tra 60 e 80."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "totaleItem": 37
+        }
+    ]
+};
